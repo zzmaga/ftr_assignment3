@@ -1,0 +1,3 @@
+NAME                                    RESTARTS
+registration-service-7d455977f8-rlxbp   0
+registration-service-7d455977f8-vw5zw   0
