@@ -1,7 +1,5 @@
 # Защита Assignment 3
 
-## Что показать
-
 1. Откройте `Assignment_3_Otchet.docx`: схема архитектуры, расчёт доступности, результаты трёх экспериментов и план RPO/RTO.
 2. Покажите `k8s/registration.yaml`: `replicas: 2`, `readinessProbe`, `livenessProbe`, `resources`, `RollingUpdate`, `Service` и `PodDisruptionBudget`. `k8s/loadgen.yaml` объясняет источник запросов.
 3. Покажите `sim/run_experiments.sh` и `logs/exp1_result.txt`, `logs/exp2_result.txt`, `logs/exp3_result.txt`, `logs/exp3_restarts.txt`. Полные журналы находятся в `logs/loadgen_exp*.txt`.
